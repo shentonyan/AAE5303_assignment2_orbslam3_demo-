@@ -1,0 +1,6 @@
+{
+  "ate_rmse_m": 6.7139,
+  "rpe_trans_drift_m_per_m": 1.33677,
+  "rpe_rot_drift_deg_per_100m": 40.64902,
+  "completeness_pct": 92.91
+}
