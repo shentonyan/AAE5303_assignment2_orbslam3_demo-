@@ -1,0 +1,19 @@
+# Dataset (large, do not commit)
+data/
+*.bag
+
+# Evaluation output (optional, remove if you want to keep)
+evaluation_results/
+CameraTrajectory.txt
+KeyFrameTrajectory.txt
+ground_truth.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
